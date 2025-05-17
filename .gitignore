@@ -1,4 +1,8 @@
 # .gitignore
-data/
+data/clean/
+data/features/
+data/noise/
+data/noisy/
+data/splits/
 
 src/model/unet_speech_denoising_best.pth
