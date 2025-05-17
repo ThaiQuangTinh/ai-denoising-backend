@@ -1,6 +1,7 @@
 # .gitignore
 data/clean/
-data/features/
+data/features/clean_stft_mag
+data/features/noisy_stft_mag_phase
 data/noise/
 data/noisy/
 data/splits/
